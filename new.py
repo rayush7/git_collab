@@ -1,1 +1,1 @@
-a = 'new work started'
+a = 'new work started. Some changes are made'
